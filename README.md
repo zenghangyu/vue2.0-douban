@@ -9,6 +9,7 @@ api来源自豆瓣官方api，详情请戳[豆瓣电影api](https://developers.d
 >  如果对您有帮助，可以点右上角 "Star" 支持一下 谢谢！ ^_^
 
 
+
 ## 项目运行
 
 clone项目源码
@@ -28,8 +29,6 @@ npm run dev
 
 #### 运行环境
 node 6+ npm 4+
-
-
 
 
 ## 项目描述
