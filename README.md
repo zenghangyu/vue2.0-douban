@@ -14,7 +14,7 @@ api来源自豆瓣官方api，详情请戳[豆瓣电影api](https://developers.d
 
 clone项目源码
 ```
-git clone https://github.com/buptsky/vue-douban-movie.git
+git clone https://github.com/zenghangyu/vue2.0-douban.git
 ```
 安装依赖
 ```
